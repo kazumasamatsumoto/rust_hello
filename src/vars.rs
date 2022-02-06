@@ -1,3 +1,4 @@
+// モジュールのモジュールなど階層化する場合はpubを頭につける（main.rsで呼び出す）
 pub mod sub_a;
 pub mod sub_b;
 
